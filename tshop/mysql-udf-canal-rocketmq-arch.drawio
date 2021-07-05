@@ -1,1 +1,158 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T10:43:03.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.4" etag="vrA4j4mRJmfifk7l_z0A" type="github"><diagram id="pdKZV_u1ixLNQ2ar3hti">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T10:43:25.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1ZXdmHHitjz6ERbt-pyk" version="14.8.4" type="github">
+  <diagram id="pdKZV_u1ixLNQ2ar3hti" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="680" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-2" value="canal-server集群&lt;br&gt;&lt;i&gt;I‘m&amp;nbsp; &amp;nbsp;a&amp;nbsp; &amp;nbsp;mysql-slave&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="380" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-3" value="mysql-master" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-4" value="mysql-slave1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-5" value="mysql-slave-udf" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-3" target="Nk5IDFj2jl3oaXU5_BVS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="540" as="sourcePoint" />
+            <mxPoint x="150" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-7" value="bin-log" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-6">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-4" target="Nk5IDFj2jl3oaXU5_BVS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-9" value="bin-log" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-8">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-10" value="trigger-udf" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-11" value="Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-10" target="Nk5IDFj2jl3oaXU5_BVS-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="310" as="sourcePoint" />
+            <mxPoint x="250" y="310" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-13" value="redis commands" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-12">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-4" target="Nk5IDFj2jl3oaXU5_BVS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="310" as="sourcePoint" />
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-15" value="bin-log" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-14">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-16" value="rocketMQ&lt;br&gt;高可用集群" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="520" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-2" target="Nk5IDFj2jl3oaXU5_BVS-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373" y="489.5" as="sourcePoint" />
+            <mxPoint x="453" y="489.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-18" value="bin-log formated JSON" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-17">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-19" value="canal-mq-client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-20" value="不同表，不同队列 or topic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-21" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-16" target="Nk5IDFj2jl3oaXU5_BVS-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-22" value="mq listening" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-21">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-19" target="Nk5IDFj2jl3oaXU5_BVS-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="190" as="sourcePoint" />
+            <mxPoint x="160" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-24" value="d" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-23">
+          <mxGeometry x="-0.2696" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-25" value="DB变化，触发缓存策略更新" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-23">
+          <mxGeometry x="-0.36" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-26" value="dubbo集群 - 业务微服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="29" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-27" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-26" target="Nk5IDFj2jl3oaXU5_BVS-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="110" as="sourcePoint" />
+            <mxPoint x="455" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-28" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;opacity=50;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-26" target="Nk5IDFj2jl3oaXU5_BVS-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="292.49999999999955" y="69" as="sourcePoint" />
+            <mxPoint x="229" y="111.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-29" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" edge="1" parent="1" source="Nk5IDFj2jl3oaXU5_BVS-26" target="Nk5IDFj2jl3oaXU5_BVS-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="292.49999999999955" y="69" as="sourcePoint" />
+            <mxPoint x="229" y="111.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-30" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="10" as="sourcePoint" />
+            <mxPoint x="25" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-31" value="会有直连的交互" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Nk5IDFj2jl3oaXU5_BVS-30">
+          <mxGeometry x="0.1273" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nk5IDFj2jl3oaXU5_BVS-32" value="&lt;b&gt;&lt;u&gt;canal-mq-client：&lt;/u&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;&amp;nbsp; 设计成一个集群dubbo微服务，只有此项目需要rocketmq的JAR包依赖，其他业务微服务与其交互。&lt;br style=&quot;font-size: 13px&quot;&gt;在此工程中，集中式管理MQ的队列、主题topic，包括canal binlog 消息，并负责DB与redis的数据一致性同步机制（即其也会有部分业务逻辑代码的实现）。&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;缺点： 其有可能成为性能瓶颈，并会因为代码管理代码问题导致整体出错。持续补充。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="530" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
