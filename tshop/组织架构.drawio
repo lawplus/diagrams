@@ -1,1 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T10:29:47.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.4" etag="Fti29wQdWCqefLLjX-15" type="github"><diagram id="XCn5R71U23cUI78QWHwZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T10:30:03.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="hXdZddC1HlQGC2WXZlX0" version="14.8.4" type="github">
+  <diagram id="XCn5R71U23cUI78QWHwZ" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-4" target="R3nw1enJqBIg4pQ9TNsO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="997" y="250" />
+              <mxPoint x="747" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="R3nw1enJqBIg4pQ9TNsO-2">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="R3nw1enJqBIg4pQ9TNsO-3">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="997" y="210" as="sourcePoint" />
+              <mxPoint x="600" y="290" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-3" value="&lt;div&gt;谢唐瑜&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;整体技术和业务架构、质量管控等&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;兼任部分业务产品需求研发&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="185" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-4" value="&lt;div&gt;&lt;span&gt;陈荣民&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;项目经理、技术管理和系统架构&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;mvp导师&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="120" width="253" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-5" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fillColor=#CCCCCC;fontFamily=Verdana;align=center;strokeColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="878" y="130" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-6" value="&lt;div&gt;李小龙&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;辅助架构设计的工作开展&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;兼任部分业务产品需求开发&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="252" y="90" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-7" value="&lt;div&gt;张西&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;辅助进行架构的高层设计、质控&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;兼任较多业务产品需求开发&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="186" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-8" value="&lt;div&gt;覃超、锦昌&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;辅助架构设计工作的人员调配&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="370" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-9" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;刘勉柱&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="32" y="186" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-10" value="&lt;div&gt;张灵俊&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;偏项目管理和产品需求拆解、新人指导、团队组织等，兼顾部分开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="196" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-11" value="&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;段文进&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="530" y="574" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-12" value="&lt;div&gt;许光华&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="410" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-13" value="&lt;div&gt;张西&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="429" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-3" target="R3nw1enJqBIg4pQ9TNsO-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="611.94" y="279.9988235294117" as="sourcePoint" />
+            <mxPoint x="901.9988235294118" y="374.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-15" value="&lt;div&gt;覃超&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;项目和产品、技术管理，主导业务和技术架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="647" y="330" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-16" value="&lt;div&gt;郑锦昌&lt;/div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;项目和产品、技术管理，&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="332" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-17" value="&lt;div&gt;程阳&lt;/div&gt;&lt;div&gt;2021届雏鹰&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="479" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-18" value="&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;罗嘉城&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="479" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-19" value="&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;吕运发&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1143" y="579" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-20" value="&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;孙仪双&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="579" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-21" value="&lt;div&gt;王双龙&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-22" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;韦延伦&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="743" y="574" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-23" value="&lt;div&gt;张永梁&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="743" y="500" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-24" value="&lt;div&gt;李玉林&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="429" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-3" target="R3nw1enJqBIg4pQ9TNsO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="615" as="sourcePoint" />
+            <mxPoint x="280" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-3" target="R3nw1enJqBIg4pQ9TNsO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="445" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-7" target="R3nw1enJqBIg4pQ9TNsO-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="282" y="210" as="sourcePoint" />
+            <mxPoint x="228" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-18" target="R3nw1enJqBIg4pQ9TNsO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="688" as="sourcePoint" />
+            <mxPoint x="1253" y="673" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-18" target="R3nw1enJqBIg4pQ9TNsO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="243" y="723" as="sourcePoint" />
+            <mxPoint x="-77" y="603" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1353" y="554" />
+              <mxPoint x="1243" y="554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-4" target="R3nw1enJqBIg4pQ9TNsO-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="635" as="sourcePoint" />
+            <mxPoint x="140" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="997" y="250" />
+              <mxPoint x="1200" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-31" value="OKR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="186" width="40" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="https://baike.baidu.com/item/OKR/2996251&lt;br&gt;-- tool:&amp;nbsp;https://okr.feishu.cn/" link="https://baike.baidu.com/item/OKR/2996251?fr=aladdin" id="R3nw1enJqBIg4pQ9TNsO-32">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#3333FF;" vertex="1" parent="1">
+            <mxGeometry x="1143" y="130" width="250" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-33" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="R3nw1enJqBIg4pQ9TNsO-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="221" as="sourcePoint" />
+            <mxPoint x="1010" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-34" value="&lt;div&gt;杨安&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="280" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-35" value="&lt;div&gt;杨安&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="410" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
