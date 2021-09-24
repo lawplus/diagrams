@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T12:46:28.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="RPHXLddqJhIpTZnSHYWc" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T01:28:24.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ESnIV5WFQ_bIoGobyliq" version="15.3.1" type="github">
   <diagram id="XCn5R71U23cUI78QWHwZ" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
           <mxGeometry x="1253" y="479" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-19" value="&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;吕运发&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;8月1号 协助USS2.0的PM工作&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="870.5" y="710" width="200" height="50" as="geometry" />
+          <mxGeometry x="878" y="660" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-20" value="&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;孙仪双&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1253" y="574" width="200" height="50" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="530" y="481" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-22" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;韦延伦&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;9月10？后转供应链项目&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="120" y="650" width="200" height="50" as="geometry" />
+          <mxGeometry x="730" y="860" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-23" value="&lt;div&gt;张永梁&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="743" y="481" width="200" height="50" as="geometry" />
@@ -151,10 +151,16 @@
           <mxGeometry x="32" y="332" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RtsyGS_YXh4Uilgb_ea2-4" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;罗俊朋&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;9月10？后转供应链项目&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="120" y="590" width="200" height="50" as="geometry" />
+          <mxGeometry x="730" y="800" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Af8z5R00L0Q75KnH0LmD-3" value="&lt;div&gt;李品潮&lt;br&gt;&lt;/div&gt;&lt;div&gt;2021届雏鹰&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#D5E8D4;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="555" width="200" height="50" as="geometry" />
+        <mxCell id="Af8z5R00L0Q75KnH0LmD-3" value="&lt;div&gt;李品潮&lt;br&gt;&lt;/div&gt;&lt;div&gt;2021届雏鹰&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="574" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S7RNmbcZfL6nqWVgTy19-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;endArrow=block;endFill=1;strokeColor=#4D4D4D;strokeWidth=2;fontFamily=Verdana;fontSize=12;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R3nw1enJqBIg4pQ9TNsO-12" target="Af8z5R00L0Q75KnH0LmD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1363" y="539" as="sourcePoint" />
+            <mxPoint x="1363" y="584" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
