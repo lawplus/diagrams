@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T07:24:53.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="L_DX7rQFRk2A9GhPcUNe" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T05:51:22.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="T6oYrd92RjpRwqODSTzd" version="15.7.0" type="github">
   <diagram id="XCn5R71U23cUI78QWHwZ" name="Page-1">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-8" value="&lt;div&gt;覃超、锦昌&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;辅助架构设计工作的人员调配&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="252" y="370" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R3nw1enJqBIg4pQ9TNsO-9" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;刘勉柱&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+        <mxCell id="R3nw1enJqBIg4pQ9TNsO-9" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;刘勉柱@深圳&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="32" y="186" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-10" value="&lt;div&gt;张灵俊&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;偏项目管理和产品需求拆解、新人指导、团队组织等，兼顾部分开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" parent="1" vertex="1">
