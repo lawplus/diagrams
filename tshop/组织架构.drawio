@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T05:51:22.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="T6oYrd92RjpRwqODSTzd" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T08:43:23.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="e6XQUgISvb6Ym6a4egFR" version="15.8.5" type="github">
   <diagram id="XCn5R71U23cUI78QWHwZ" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
           <mxGeometry x="252" y="186" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-8" value="&lt;div&gt;覃超、锦昌&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;辅助架构设计工作的人员调配&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="370" width="200" height="50" as="geometry" />
+          <mxGeometry x="252" y="290" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-9" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;刘勉柱@深圳&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;主要辅助业务需求开发迭代&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="32" y="186" width="200" height="50" as="geometry" />
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-34" value="&lt;div&gt;杨安&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="252" y="280" width="200" height="50" as="geometry" />
+          <mxGeometry x="290" y="770" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R3nw1enJqBIg4pQ9TNsO-35" value="&lt;div&gt;李小龙&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;主导部分功能架构设计和业务需求的开发迭代&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1253" y="410" width="200" height="50" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="32" y="260" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RtsyGS_YXh4Uilgb_ea2-2" value="&lt;div&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;白一鸣&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;研究生雏鹰&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#D5E8D4;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="530" y="555" width="200" height="50" as="geometry" />
+          <mxGeometry x="496" y="770" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RtsyGS_YXh4Uilgb_ea2-3" value="&lt;div&gt;&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px&quot;&gt;袁柯&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;研究生雏鹰&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;fillColor=#D5E8D4;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="32" y="332" width="200" height="50" as="geometry" />
