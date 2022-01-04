@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T03:22:32.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JVFcwGdwXaNC_pdlnpK8" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T13:51:59.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GtBYhS4isbR2BxJ9JQzc" version="16.1.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="&lt;b&gt;供应链 物流 TMS等&lt;br&gt;&amp;amp;其他财务系统&lt;br&gt;&amp;amp; SAP&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="194" y="670" width="1075" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="&lt;b&gt;营销供应链&lt;br&gt;&lt;br&gt;新方舟&lt;br&gt;-能力中心涵盖范围？&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;align=left;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="&lt;b&gt;营销供应链&lt;br&gt;&lt;br&gt;新方舟&lt;br&gt;-能力中心涵盖范围？&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="194" y="500" width="1075" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="&lt;b&gt;营销应用类&lt;br&gt;-商品、库存、订单是否冗余？&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="184" y="330" width="1075" height="140" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="&lt;b&gt;营销应用类、市场推广类系统群&lt;br&gt;-商品、库存、订单是否冗余？&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="160" y="330" width="1099" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-33" value="MDM" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="326.5" y="753" width="410" height="100" as="geometry" />
