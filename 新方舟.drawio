@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:15:44.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="PmTahmAqQ0uaNvhuOCCk" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:17:20.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="VNYh0FC88x2VeYh6q3wO" version="16.2.4" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,13 +110,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="715" y="160" width="50" height="95" as="geometry" />
+          <mxGeometry x="722.5" y="200" width="35" height="65" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="企业分层架构简单视图" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="snGAhfNHHDM_bSrnh7CA-1" value="C类、B类、P类客户/用户/消费者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="593.75" y="120" width="292.5" height="30" as="geometry" />
+        <mxCell id="snGAhfNHHDM_bSrnh7CA-1" value="C类、B类、P类 客户/用户/消费者等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="593.75" y="170" width="292.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="snGAhfNHHDM_bSrnh7CA-2" value="业务数字化应用&lt;br&gt;（样机等）" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1118" y="377" width="150" height="75" as="geometry" />
