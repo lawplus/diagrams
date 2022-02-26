@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T03:09:14.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="z5aH0tifOHo0l4-F1j1E" version="16.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:21:26.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jhahSwbi4fNrgWotLofZ" version="16.6.2" type="github" pages="6">
   <diagram id="XCn5R71U23cUI78QWHwZ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -369,6 +369,9 @@
         </mxCell>
         <mxCell id="gBMowGn0kMbU-MpsYyJO-28" value="蓝绿部署方案可后续探讨" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF350D;" vertex="1" parent="NBvNCPRoG3sUAeBGJXnX-1">
           <mxGeometry x="305" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gBMowGn0kMbU-MpsYyJO-29" value="MQ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontColor=#6666FF;" vertex="1" parent="NBvNCPRoG3sUAeBGJXnX-1">
+          <mxGeometry x="960" y="550" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
