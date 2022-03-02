@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T16:08:34.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cpQFGYW7n9yex_HejfpP" version="16.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-02T16:16:55.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GsEgLQjvphBDDOOGV1WL" version="16.6.4" type="github" pages="9">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
@@ -69,7 +69,7 @@
         <mxCell id="J_g4_6emWc3tApAs_0q9-1" value="&amp;lt;-- 任务 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="730" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="主业务功能流程：&#xa;1、 SI单 –  SAP/OMS接口推送 ， 用于订舱&#xa;2、 TMS订舱管理，把订舱信息推送回SAP/OMS&#xa;3、 TP单- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&#xa;4、 运输订单 – 根据TP单审核通过后自动匹配路由规则创建&#xa;5、 装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&#xa;6、 调度单 -  通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&#xa;7、 运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
+        <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="外销 -- 主业务功能流程：&lt;br&gt;1、 SI单（船运单） –&amp;nbsp; SAP/OMS接口推送 ， 用于订舱&lt;br&gt;2、 TMS订舱管理，把订舱信息推送回SAP/OMS&lt;br&gt;3、 TP单- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&lt;br&gt;4、 运输订单 – 根据TP单审核通过后自动匹配路由规则创建&lt;br&gt;5、 装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&lt;br&gt;6、 调度单 -&amp;nbsp; 通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&lt;br&gt;7、 运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="145" y="680" width="910" height="200" as="geometry" />
         </mxCell>
       </root>
@@ -80,7 +80,7 @@
       <root>
         <mxCell id="1GG8qmvemoy3fQatBPob-0" />
         <mxCell id="1GG8qmvemoy3fQatBPob-1" parent="1GG8qmvemoy3fQatBPob-0" />
-        <mxCell id="1GG8qmvemoy3fQatBPob-5" value="点击前往：&lt;br&gt;&lt;span style=&quot;color: rgb(89 , 89 , 89) ; font-family: &amp;#34;roboto&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://f0.testpc.tclo2o.cn/235707.jpg&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1GG8qmvemoy3fQatBPob-1">
+        <mxCell id="1GG8qmvemoy3fQatBPob-5" value="点击前往：&lt;img src=&quot;https://f0.testpc.tclo2o.cn/235707.jpg&quot; width=&quot;520&quot; height=&quot;376&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1GG8qmvemoy3fQatBPob-1">
           <mxGeometry x="230" y="180" width="310" height="170" as="geometry" />
         </mxCell>
       </root>
