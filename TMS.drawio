@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T08:40:01.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qGbrLiy-ZPCzPt-ByeCV" version="16.6.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-02T08:42:35.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="D1j4Bgv8nsj-awsayvOA" version="16.6.4" type="github" pages="8">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="J_g4_6emWc3tApAs_0q9-1" value="&amp;lt;-- 任务 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
           <mxGeometry x="730" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="主业务功能流程：&#xa;1、	SI单 –  SAP/OMS接口推送 ， 用于订舱&#xa;2、	TMS订舱管理，把订舱信息推送回SAP/OMS&#xa;3、	TP单- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&#xa;4、	运输订单 – 根据TP单审核通过后自动匹配路由规则创建&#xa;5、	装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&#xa;6、	调度单 -  通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&#xa;7、	运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="145" y="680" width="910" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
