@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T17:07:22.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="whM5uLN3C4RWI3Wja3Rj" version="16.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-02T17:45:12.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cVeeil7B58-_Oa79p8YJ" version="16.6.4" type="github" pages="9">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
@@ -69,13 +69,22 @@
         <mxCell id="J_g4_6emWc3tApAs_0q9-1" value="&amp;lt;-- 任务 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="730" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="外销 -- 主业务功能流程：&lt;br&gt;1、 SI单（船运单） –&amp;nbsp; SAP/OMS接口推送过来 ， 用于订舱&lt;br&gt;2、 TMS订舱管理，把订舱信息推送回SAP/OMS&lt;br&gt;3、 TP单- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&lt;br&gt;4、 运输订单 – 根据TP单审核通过后自动匹配路由规则创建&lt;br&gt;5、 装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&lt;br&gt;6、 调度单 -&amp;nbsp; 通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&lt;br&gt;7、 运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff350d&quot;&gt;本段描述缺少角色人物，没有画面感，开发难理解！！&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
+        <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="外销 -- 主业务功能流程：&lt;br&gt;1、 SI单（预走货单 - 船运单） –&amp;nbsp; SAP/OMS接口推送过来 ， 用于订舱&lt;br&gt;2、 TMS订舱管理，把订舱信息推送回SAP/OMS&lt;br&gt;3、 TP单- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&lt;br&gt;4、 运输订单 – 根据TP单审核通过后自动匹配路由规则创建&lt;br&gt;5、 装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&lt;br&gt;6、 调度单 -- &amp;nbsp; 通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&lt;br&gt;7、 运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff350d&quot;&gt;本段描述缺少角色人物，没有画面感，开发难理解！！&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;dashed=1;perimeterSpacing=1;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="145" y="680" width="910" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="72Kg7NZgrzikHqp7cHUT-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;fontColor=#FF350D;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="220" y="930" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72Kg7NZgrzikHqp7cHUT-1" value="操作" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;fontColor=#FF350D;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="300" y="940" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="72Kg7NZgrzikHqp7cHUT-2" value="产生&lt;br&gt;data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fontColor=#FF350D;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="420" y="920" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="o99Sp3afstcaPuTE64aS" name="sysDesign">
+  <diagram id="o99Sp3afstcaPuTE64aS" name="data flow">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="1GG8qmvemoy3fQatBPob-0" />
@@ -242,32 +251,35 @@
       <root>
         <mxCell id="I7ykVaEgq7IqfVrzjPVm-0" />
         <mxCell id="I7ykVaEgq7IqfVrzjPVm-1" parent="I7ykVaEgq7IqfVrzjPVm-0" />
-        <mxCell id="pBrc-CHLryyRmqKch71Z-0" value="mysql宽表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-0" value="mysql宽表&lt;br&gt;mongoDB？" style="rounded=0;whiteSpace=wrap;html=1;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="630" y="505" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-1" value="tms-order" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-1" value="tms-order" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="490" y="220" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-2" value="tms-runcenter" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-2" value="tms-runcenter" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="720" y="220" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-3" value="tms-base" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-3" value="tms-base" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="610" y="220" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-4" value="report&lt;br&gt;报表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-4" value="report&lt;br&gt;报表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="540" y="490" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-5" value="canal&lt;br&gt;&lt;br&gt;待定！" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-5" value="canal&lt;br&gt;&lt;br&gt;待定！" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="500" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-6" value="tms-mq" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-6" value="tms-mq" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="730" y="385" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-7" value="MQ" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-7" value="kafka MQ" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="620" y="395" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pBrc-CHLryyRmqKch71Z-8" value="梳理路由的需求，本地环境搭建，--" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="pBrc-CHLryyRmqKch71Z-8" value="梳理路由的需求，本地环境搭建，--" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="140" y="350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f1Ao8oUfdGXap-q9QBh3-0" value="report&lt;br&gt;报表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+          <mxGeometry x="750" y="490" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
