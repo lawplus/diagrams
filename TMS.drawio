@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T16:16:55.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GsEgLQjvphBDDOOGV1WL" version="16.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-02T16:17:19.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="AJF77RiTN5LFu3zRspmR" version="16.6.4" type="github" pages="9">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
       <root>
         <mxCell id="1GG8qmvemoy3fQatBPob-0" />
         <mxCell id="1GG8qmvemoy3fQatBPob-1" parent="1GG8qmvemoy3fQatBPob-0" />
-        <mxCell id="1GG8qmvemoy3fQatBPob-5" value="点击前往：&lt;img src=&quot;https://f0.testpc.tclo2o.cn/235707.jpg&quot; width=&quot;520&quot; height=&quot;376&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1GG8qmvemoy3fQatBPob-1">
+        <mxCell id="1GG8qmvemoy3fQatBPob-5" value="点击前往：&lt;span style=&quot;color: rgb(89 , 89 , 89) ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://f0.testpc.tclo2o.cn/235707.jpg&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;img src=&quot;https://f0.testpc.tclo2o.cn/235707.jpg&quot; width=&quot;520&quot; height=&quot;376&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1GG8qmvemoy3fQatBPob-1">
           <mxGeometry x="230" y="180" width="310" height="170" as="geometry" />
         </mxCell>
       </root>
