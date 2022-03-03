@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T16:09:07.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MFVgG324440zh0rwo6Mt" version="16.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-03T16:10:55.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7MdQUDNPn--1be64yIdw" version="16.6.4" type="github" pages="9">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
             <mxPoint x="290" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNRqFwpus8aoAXuAdIqj-5" value="复盘：&lt;br&gt;刚进项目组，没有人能先讲下全景。开发同学单个模块去研发，缺乏了上下文的整体联动，不清楚做出来的功能会给哪个环节去调用到。&lt;br&gt;建议：&lt;br&gt;1.整体性的产品经理 - 非单块的产品、又无拉通&lt;br&gt;2. 架构部门是否可介入补齐整体系统的data flow、use case" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="kNRqFwpus8aoAXuAdIqj-5" value="复盘：&lt;br&gt;刚进项目组，没有人能先讲下全景。开发同学单个模块去研发，缺乏了上下文的整体联动，不清楚做出来的功能会给哪个环节去调用到。&lt;br&gt;建议：&lt;br&gt;1.整体性的产品经理 - 非单块的产品、又无拉通&lt;br&gt;2. 架构部门是否可介入补齐整体系统的data flow、use case - 一种开发语言的转换..." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
           <mxGeometry x="560" y="880" width="370" height="130" as="geometry" />
         </mxCell>
       </root>
