@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T10:07:35.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6U8yLfSqEHcFCDx0VZUJ" version="16.6.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-07T02:37:09.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Dw59GcifkbKrVl2H0Rz5" version="16.6.6" type="github" pages="9">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
         <mxCell id="J_g4_6emWc3tApAs_0q9-0" value="SAP - 有明细的TP单-&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="280" y="460" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J_g4_6emWc3tApAs_0q9-1" value="&amp;lt;-- 任务 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
-          <mxGeometry x="730" y="390" width="110" height="30" as="geometry" />
+        <mxCell id="J_g4_6emWc3tApAs_0q9-1" value="&amp;lt;-- 运输任务 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
+          <mxGeometry x="720" y="400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="外销 -- 主业务功能流程：&lt;br&gt;1、 SI单（预走货单 - pre-shipping instruction） –&amp;nbsp; SAP/OMS接口推送过来 ， 用于订舱&lt;br&gt;2、 TMS订舱管理，把订舱信息推送回SAP/OMS&lt;br&gt;3、 TP单 （发货单管理）- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&lt;br&gt;4、 运输订单 – 根据TP单审核通过后自动匹配路由规则创建&lt;br&gt;5、 装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&lt;br&gt;6、 调度单 -- &amp;nbsp; 通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&lt;br&gt;7、 运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务&lt;br&gt;8、 运输任务产生预约单 --&lt;br&gt;（需派送运输单给SPD等三方物流系统接口！！）&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff350d&quot;&gt;本段描述缺少角色人物，没有画面感，开发难理解！！&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;dashed=1;perimeterSpacing=1;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="145" y="680" width="910" height="210" as="geometry" />
@@ -83,28 +83,28 @@
             <mxGeometry x="160" y="37" width="700" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="kNRqFwpus8aoAXuAdIqj-1" value="操作SAP&lt;br&gt;创建TP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="kNRqFwpus8aoAXuAdIqj-1" value="操作SAP&lt;br&gt;创建TP" style="ellipse;whiteSpace=wrap;html=1;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="300" y="945" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kNRqFwpus8aoAXuAdIqj-2" value="操作SAP&lt;br&gt;审核TP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="kNRqFwpus8aoAXuAdIqj-2" value="操作SAP&lt;br&gt;审核TP" style="ellipse;whiteSpace=wrap;html=1;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="300" y="1045" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kNRqFwpus8aoAXuAdIqj-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="kNRqFwpus8aoAXuAdIqj-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="tQJhOPiJMeDeqM3luCm8-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="1045" as="sourcePoint" />
             <mxPoint x="290" y="1075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNRqFwpus8aoAXuAdIqj-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="kNRqFwpus8aoAXuAdIqj-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="tQJhOPiJMeDeqM3luCm8-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="1025" as="sourcePoint" />
             <mxPoint x="290" y="985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNRqFwpus8aoAXuAdIqj-5" value="复盘：&lt;br&gt;刚进项目组，没有人能先讲下全景。开发同学单个模块去研发，缺乏了上下文的整体联动，不清楚做出来的功能会给哪个环节去调用到。&lt;br&gt;建议：&lt;br&gt;1. TCL-大产品经理缺失 - （单个模块的产品经理过多、无拉通和集成）&lt;br&gt;2. 项目开发经理需与架构部门协同，输出整体系统的data flow（包括DB table）、use case。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="kNRqFwpus8aoAXuAdIqj-5" value="复盘：&lt;br&gt;刚进项目组，没有人能先讲下全景。开发同学单个模块去研发，缺乏了上下文的整体联动，不清楚做出来的功能会给哪个环节去调用到。&lt;br&gt;建议：&lt;br&gt;1. TCL-大产品经理缺失 - （单个模块的产品经理过多、无拉通和集成）&lt;br&gt;2. 项目开发经理需与架构部门协同，输出整体系统的data flow（包括DB table）、use case。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="560" y="955" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Kkp2j52L8OB7ZYXS6GNo-0" value="--&amp;gt; 运输任务 --&amp;gt; 预约单&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="Kkp2j52L8OB7ZYXS6GNo-0" value="--&amp;gt; 运输任务 --&amp;gt; 预约单&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="420" y="460" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
