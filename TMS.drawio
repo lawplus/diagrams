@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:39:14.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zA-tImrSGkzMBIwdJmX4" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:39:34.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UYEcHyOjLmaL5rRRy2pz" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
           <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-5" value="小程序代码工程复用" style="rounded=0;whiteSpace=wrap;html=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
-          <mxGeometry x="240" y="500" width="160" height="30" as="geometry" />
+          <mxGeometry x="260" y="440" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-6" value="PC web平台企业管理" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_19iEEt82in34MYtU9IB-0" value="小程序UI已有，开发需要后端来设计接口文档。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
-          <mxGeometry x="90" y="430" width="300" height="30" as="geometry" />
+          <mxGeometry x="110" y="380" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
