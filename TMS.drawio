@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T02:37:09.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Dw59GcifkbKrVl2H0Rz5" version="16.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-07T02:38:20.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JSOGI8Gr451pxOCQE5zg" version="16.6.6" type="github" pages="9">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -106,6 +106,12 @@
         </mxCell>
         <mxCell id="Kkp2j52L8OB7ZYXS6GNo-0" value="--&amp;gt; 运输任务 --&amp;gt; 预约单&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="420" y="460" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="otOVBXq3aCdxd-6sObFj-0" value="承运商进入我们的PC web后台进行操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="535" y="520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="otOVBXq3aCdxd-6sObFj-1" value="&amp;lt;-- 船运公司接口 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="710" y="500" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
