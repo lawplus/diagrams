@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T11:52:16.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="roRMjZttxpR8GfRff3_Q" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:03:48.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="tYIvoegRGx-j5SKBKdV8" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -341,15 +341,15 @@
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-5" value="TCL HR系统&lt;br&gt;SAP" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="900" y="337.5" width="130" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-5" target="1BsJ3SIQmXO2JcKoSUJd-2">
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="390" as="sourcePoint" />
-            <mxPoint x="630" y="340" as="targetPoint" />
+            <mxPoint x="930" y="360" as="sourcePoint" />
+            <mxPoint x="710" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-7" value="TCL内部人员OA账号 自动同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1BsJ3SIQmXO2JcKoSUJd-6">
           <mxGeometry x="-0.4773" relative="1" as="geometry">
-            <mxPoint x="-31" y="-27" as="offset" />
+            <mxPoint x="-40" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="http://dev.platform.tms.tcl.com/hiam/sub-account-site" link="http://dev.platform.tms.tcl.com/hiam/sub-account-site" id="1BsJ3SIQmXO2JcKoSUJd-9">
@@ -357,11 +357,17 @@
             <mxGeometry x="600" y="180" width="310" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#6666FF;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-10" target="1BsJ3SIQmXO2JcKoSUJd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-10" value="TMS web系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-11" value="tms业务库&lt;br&gt;中间关联表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
-          <mxGeometry x="350" y="280" width="80" height="70" as="geometry" />
+        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#6666FF;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-11" target="1BsJ3SIQmXO2JcKoSUJd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-11" value="tms-basecenter&lt;br&gt;中间关联表&lt;br&gt;* 用户id&lt;br&gt;* 用户组id、编号" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=left;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="340" y="280" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-12" target="1BsJ3SIQmXO2JcKoSUJd-10">
           <mxGeometry relative="1" as="geometry" />
@@ -374,23 +380,23 @@
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-12" value="平台系统运维人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="120" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-17" value="配置关联OA账号与干线用户组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
-          <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-17" value="配置关联OA账号与&lt;br&gt;干线用户组&lt;br&gt;或支线组&lt;br&gt;或宅配组&lt;br&gt;或CBG中国区组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="320" y="392.5" width="140" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-18" target="1BsJ3SIQmXO2JcKoSUJd-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-18" value="内部操作人员&lt;br&gt;有tcl OA账号的" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
-          <mxGeometry x="200" y="490" width="30" height="60" as="geometry" />
+          <mxGeometry x="210" y="520" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-19" target="1BsJ3SIQmXO2JcKoSUJd-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-19" value="TMS web系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
-          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-21" value="登录到web系统后，即可看到属于自己管理范围的业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
-          <mxGeometry x="330" y="734.51" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-23" value="测试环境： http://tms-test.tcl.com.cn/#/login" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="220" y="100" width="300" height="30" as="geometry" />
@@ -401,15 +407,24 @@
           </mxCell>
         </UserObject>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-26" value="gateway项目&lt;br&gt;filter层进行用户业务属性获取？" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
-          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#6666FF;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-27" target="1BsJ3SIQmXO2JcKoSUJd-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-27" value="外部承运商&lt;br&gt;无tcl OA账号的" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="160" y="1200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#6666FF;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-28" target="1BsJ3SIQmXO2JcKoSUJd-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-28" value="TMS web系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="270" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-29" target="1BsJ3SIQmXO2JcKoSUJd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#6666FF;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-29" target="1BsJ3SIQmXO2JcKoSUJd-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-29" value="gateway项目&lt;br&gt;filter层进行用户业务属性获取" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
@@ -435,7 +450,7 @@
         </mxCell>
         <mxCell id="1BsJ3SIQmXO2JcKoSUJd-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="840" as="sourcePoint" />
+            <mxPoint x="30" y="840" as="sourcePoint" />
             <mxPoint x="1030" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
