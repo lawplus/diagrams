@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T02:38:20.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JSOGI8Gr451pxOCQE5zg" version="16.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-07T11:30:41.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sPAvAuj4NkPU-NA9MVnj" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-0" />
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-1" parent="GyTXTzT2P_0X31Xhbt4W-0" />
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
@@ -113,15 +113,18 @@
         <mxCell id="otOVBXq3aCdxd-6sObFj-1" value="&amp;lt;-- 船运公司接口 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
           <mxGeometry x="710" y="500" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="otOVBXq3aCdxd-6sObFj-2" value="&amp;lt;-- 生产下线的运输货物 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="760" y="170" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="o99Sp3afstcaPuTE64aS" name="data flow">
-    <mxGraphModel dx="1022" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="1GG8qmvemoy3fQatBPob-0" />
         <mxCell id="1GG8qmvemoy3fQatBPob-1" parent="1GG8qmvemoy3fQatBPob-0" />
-        <mxCell id="1GG8qmvemoy3fQatBPob-5" value="点击前往：&lt;span style=&quot;color: rgb(89 , 89 , 89) ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://f0.testpc.tclo2o.cn/235707.jpg&lt;br&gt;还没有画出跟 新方舟、SRM、MES、WMS、CargoSmart系统的交互&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;img src=&quot;https://f0.testpc.tclo2o.cn/235707.jpg&quot; width=&quot;520&quot; height=&quot;376&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1GG8qmvemoy3fQatBPob-1">
+        <mxCell id="1GG8qmvemoy3fQatBPob-5" value="点击前往：&lt;span style=&quot;color: rgb(89 , 89 , 89) ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://f0.testpc.tclo2o.cn/235707.jpg&lt;br&gt;还没有画出跟 新方舟、SRM、MES、WMS、CargoSmart系统的交互&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;img src=&quot;https://f0.testpc.tclo2o.cn/235707.jpg&quot; width=&quot;520&quot; height=&quot;376&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1GG8qmvemoy3fQatBPob-1" vertex="1">
           <mxGeometry x="230" y="180" width="310" height="170" as="geometry" />
         </mxCell>
       </root>
@@ -219,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kQizFubuBnFIlaXypaSE" name="装柜方案">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="Igsq1mCYBcoxBAJ-jNZ6-0" />
         <mxCell id="Igsq1mCYBcoxBAJ-jNZ6-1" parent="Igsq1mCYBcoxBAJ-jNZ6-0" />
@@ -255,11 +258,16 @@
         <mxCell id="3IxQzBcJ73oeFD_LD3AI-0" value="产品： 刘薇婷" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Igsq1mCYBcoxBAJ-jNZ6-1" vertex="1">
           <mxGeometry x="160" y="260" width="180" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="PRD文档：&lt;br&gt;https://www.kdocs.cn/l/ca7XL0Kw4nZC" link="https://www.kdocs.cn/l/ca7XL0Kw4nZC" id="Ez3zj5f0xVxfacfJgrYV-0">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Igsq1mCYBcoxBAJ-jNZ6-1">
+            <mxGeometry x="560" y="190" width="290" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="e3DQE4xEcHxmVtgMOQGT" name="运输路由">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="AK5ePVT-nBIHnYqocBsC-0" />
         <mxCell id="AK5ePVT-nBIHnYqocBsC-1" parent="AK5ePVT-nBIHnYqocBsC-0" />
@@ -282,7 +290,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kg-KytLLpKEPM3ZlTFuj" name="报表">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="I7ykVaEgq7IqfVrzjPVm-0" />
         <mxCell id="I7ykVaEgq7IqfVrzjPVm-1" parent="I7ykVaEgq7IqfVrzjPVm-0" />
@@ -310,11 +318,126 @@
         <mxCell id="pBrc-CHLryyRmqKch71Z-8" value="梳理路由的需求，本地环境搭建，--" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="140" y="350" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f1Ao8oUfdGXap-q9QBh3-0" value="mongoDB&lt;br&gt;report&lt;br&gt;报表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="f1Ao8oUfdGXap-q9QBh3-0" value="mongoDB&lt;br&gt;report&lt;br&gt;报表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="760" y="450" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qqcsMFSPtGQylgT0OuOF-0" value="otter&lt;br&gt;待定！" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="I7ykVaEgq7IqfVrzjPVm-1">
+        <mxCell id="qqcsMFSPtGQylgT0OuOF-0" value="otter&lt;br&gt;待定！" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="I7ykVaEgq7IqfVrzjPVm-1" vertex="1">
           <mxGeometry x="250" y="385" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nPYKEpBxgvcPHvGxGZGF" name="用户数据权限">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-0" />
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-1" parent="1BsJ3SIQmXO2JcKoSUJd-0" />
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-2" value="平台用户表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="600" y="330" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-3" value="技术平台web" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-5" value="TCL HR系统&lt;br&gt;SAP" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="900" y="337.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-5" target="1BsJ3SIQmXO2JcKoSUJd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="390" as="sourcePoint" />
+            <mxPoint x="630" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-7" value="TCL内部人员OA账号 自动同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1BsJ3SIQmXO2JcKoSUJd-6">
+          <mxGeometry x="-0.4773" relative="1" as="geometry">
+            <mxPoint x="-31" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="http://dev.platform.tms.tcl.com/hiam/sub-account-site" link="http://dev.platform.tms.tcl.com/hiam/sub-account-site" id="1BsJ3SIQmXO2JcKoSUJd-9">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+            <mxGeometry x="600" y="180" width="310" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-10" value="TMS web系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-11" value="tms业务库&lt;br&gt;中间关联表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="290" y="280" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-12" target="1BsJ3SIQmXO2JcKoSUJd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-15" value="操作配置用户组&lt;br&gt;关联内部人员OA账号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1BsJ3SIQmXO2JcKoSUJd-14">
+          <mxGeometry x="0.7022" y="3" relative="1" as="geometry">
+            <mxPoint x="-73" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-12" value="平台系统运维人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="60" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-17" value="配置关联OA账号与干线用户组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-18" target="1BsJ3SIQmXO2JcKoSUJd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-18" value="内部操作人员&lt;br&gt;有tcl OA账号的" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="120" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-19" target="1BsJ3SIQmXO2JcKoSUJd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-19" value="TMS web系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="250" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-21" value="登录到web系统后，即可看到属于自己管理范围的业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="250" y="744.51" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-23" value="测试环境： http://tms-test.tcl.com.cn/#/login" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="160" y="100" width="300" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="开发环境： http://tms-dev2.sct.tcl.com/" link="http://tms-dev2.sct.tcl.com/" id="1BsJ3SIQmXO2JcKoSUJd-25">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+            <mxGeometry x="160" y="140" width="270" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-26" value="gateway项目&lt;br&gt;filter层进行用户业务属性获取？" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="250" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-27" value="外部承运商&lt;br&gt;无tcl OA账号的" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="150" y="880" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-28" value="TMS web系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="260" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-29" target="1BsJ3SIQmXO2JcKoSUJd-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-29" value="gateway项目&lt;br&gt;filter层进行用户业务属性获取" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="450" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-30" value="平台用户&lt;br&gt;hiam表&lt;br&gt;业务属性关联表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="445" y="1110" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-31" target="1BsJ3SIQmXO2JcKoSUJd-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-31" value="tms-oauth&lt;br&gt;tms-iam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="450" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="1BsJ3SIQmXO2JcKoSUJd-34" target="1BsJ3SIQmXO2JcKoSUJd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-34" value="登录成功后，到达承运任务列表，只看到属于承运商A的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="670" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-36" value="tms业务库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry x="690" y="1010" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1BsJ3SIQmXO2JcKoSUJd-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="840" as="sourcePoint" />
+            <mxPoint x="940" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
