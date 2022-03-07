@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:37:03.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="38HHWmN1RpFaZ9McVcW1" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:37:48.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="eLd2uwGYtKY3eiI80b4K" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-3" value="司机小程序" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GyTXTzT2P_0X31Xhbt4W-4" value="TCL企业小程序&lt;br&gt;- 门卫&lt;br&gt;- 监控装货人" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
+        <mxCell id="GyTXTzT2P_0X31Xhbt4W-4" value="TCL企业小程序&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- 门卫&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- 监控装货人&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-5" value="小程序代码工程复用" style="rounded=0;whiteSpace=wrap;html=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
