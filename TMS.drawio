@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T07:12:52.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Xry5qL7zuXcw-uEnTkSI" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-09T07:17:50.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="esRCWSb-I3BmKbh39PFl" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="72Kg7NZgrzikHqp7cHUT-2" value="产生&lt;br&gt;data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;fontColor=#FF350D;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="410" y="940" width="60" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="整体项目文档：&lt;br&gt;https://www.kdocs.cn/fl/syvTtlCb8&lt;br&gt;&lt;br&gt;任务：&amp;nbsp;https://www.kdocs.cn/p/157734730946?fl=syvTtlCb8" link="https://www.kdocs.cn/fl/syvTtlCb8" id="6AfixDjK8k-X5tgFaTt5-0">
+        <UserObject label="整体项目文档：&lt;br&gt;https://www.kdocs.cn/fl/syvTtlCb8&lt;br&gt;&lt;br&gt;任&lt;strike&gt;务：&amp;nbsp;https://www.kdocs.cn/p/157734730946?fl=syvTtlCb8&lt;/strike&gt;" link="https://www.kdocs.cn/fl/syvTtlCb8" id="6AfixDjK8k-X5tgFaTt5-0">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF350D;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
             <mxGeometry x="160" y="37" width="700" height="70" as="geometry" />
           </mxCell>
