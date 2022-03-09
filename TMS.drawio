@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T07:17:50.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="esRCWSb-I3BmKbh39PFl" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-09T16:39:08.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YuOvHkWUyLicYzPh7sxu" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -116,8 +116,8 @@
         <mxCell id="otOVBXq3aCdxd-6sObFj-2" value="&amp;lt;-- 生产下线的运输货物 --&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;fontStyle=1;fontSize=16;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
           <mxGeometry x="760" y="170" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P0HoorYB_YMyKfdinbz1-0" value="【金山文档】 TMS-日任务报表-TCL SDBG 数字化转型中心-产品管理部&#xa;https://kdocs.cn/l/srYS1xVuDHJA" style="text;whiteSpace=wrap;html=1;fontColor=#6666FF;fontSize=14;align=center;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
-          <mxGeometry x="545" y="37" width="425" height="68" as="geometry" />
+        <mxCell id="P0HoorYB_YMyKfdinbz1-0" value="&amp;nbsp;TMS-日任务报表-TCL SDBG 数字化转型中心-产品管理部&lt;br&gt;&amp;nbsp; &amp;nbsp; https://kdocs.cn/l/srYS1xVuDHJA&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;下拉值集字典：&amp;nbsp;https://www.kdocs.cn/p/158414426267?fl=syvTtlCb8" style="text;whiteSpace=wrap;html=1;fontColor=#6666FF;fontSize=14;align=left;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="545" y="37" width="485" height="68" as="geometry" />
         </mxCell>
         <UserObject label="接口人安排：&lt;br&gt;https://docs.qq.com/sheet/DQ0lqQVpHVXpRYnVZ?tab=BB08J2" link="https://docs.qq.com/sheet/DQ0lqQVpHVXpRYnVZ?tab=BB08J2" id="P0HoorYB_YMyKfdinbz1-1">
           <mxCell style="text;whiteSpace=wrap;html=1;fontSize=4;fontColor=#6666FF;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
