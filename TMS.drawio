@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T10:33:10.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-EsiX-sKoE2FUHH_Ygfz" version="16.6.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-10T12:36:15.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EKnsO2H4Fh9YH7ts0P1k" version="16.6.6" type="github" pages="10">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -500,7 +500,7 @@
         <mxCell id="Z1BAnvJTkUR7q8Lsvaci-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1BsJ3SIQmXO2JcKoSUJd-1" source="Z1BAnvJTkUR7q8Lsvaci-12" target="Z1BAnvJTkUR7q8Lsvaci-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-12" value="oauth&lt;br&gt;tms-iam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
+        <mxCell id="Z1BAnvJTkUR7q8Lsvaci-12" value="tms-oauth&lt;br&gt;tms-iam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
           <mxGeometry x="710" y="980" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YWLjmQBseaZUKHaClOaT-0" value="tms-iam" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#6666FF;" vertex="1" parent="1BsJ3SIQmXO2JcKoSUJd-1">
