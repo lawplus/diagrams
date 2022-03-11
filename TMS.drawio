@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T03:38:22.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="f8Cl349vLhkczCwLHxr3" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T03:42:40.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZOJqq1ecZVhiVdZsSazz" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
         <mxCell id="7fqA23fZp8QjV5QjAp_y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-15" target="7fqA23fZp8QjV5QjAp_y-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7fqA23fZp8QjV5QjAp_y-15" value="转换为船公司的EDI报文后&lt;br&gt;写入Cargo报文日志相关表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-15" value="转换为船公司的EDI报文后&lt;br&gt;写入Cargo报文日志相关表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-17" value="tms-order2.0&lt;br&gt;t_bk_push&lt;br&gt;t_cargo_smart_log" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
@@ -215,8 +215,8 @@
         <mxCell id="7fqA23fZp8QjV5QjAp_y-30" value="上传订舱报文到cargoSmart FTP服务器&lt;br&gt;in目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="447.5" y="615" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7fqA23fZp8QjV5QjAp_y-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;需要登录到ftp服务器校验文件是否已上传成功，下载来检查报文体&lt;br&gt;&lt;br&gt;重复上传是否存在文件覆盖问题？&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="650" y="625" width="380" height="50" as="geometry" />
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;需要登录到ftp服务器校验文件是否已上传成功，下载来检查报文体&lt;br&gt;&lt;br&gt;重复上传是否存在文件覆盖问题？&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="620" y="620" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-33" target="7fqA23fZp8QjV5QjAp_y-34">
           <mxGeometry relative="1" as="geometry" />
@@ -264,24 +264,24 @@
           <mxGeometry x="380" y="880" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFBK3BTQpI2FT_7uciLW-7" value="黄玉华" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="590" y="690" width="30" height="60" as="geometry" />
+          <mxGeometry x="212.5" y="780" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFBK3BTQpI2FT_7uciLW-8" value="黄玉华" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="315" y="1040" width="30" height="60" as="geometry" />
+          <mxGeometry x="255" y="1210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-0" value="vo.setInterchangeId(&quot;TESTTCL&quot;);" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="630" y="10" width="200" height="30" as="geometry" />
         </mxCell>
         <UserObject label="https://tcl-doc.yuque.com/uuxag2/oqg9n6/ho0dgn" link="https://tcl-doc.yuque.com/uuxag2/oqg9n6/ho0dgn" id="yI_dVfx9PWGD7jNFMSd0-1">
           <mxCell style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-            <mxGeometry x="137.5" y="540" width="290" height="30" as="geometry" />
+            <mxGeometry x="665" y="510" width="290" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-2" value="e.printStackTrace();" style="text;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="470" y="475" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-3" value="唐健" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="390" y="520" width="30" height="60" as="geometry" />
+          <mxGeometry x="935" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-4" value="拉取目录里面的文件后删除掉ftp的out目录的文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="850" y="810" width="120" height="60" as="geometry" />
@@ -290,25 +290,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-6" value="定时器&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="227.5" y="1105" width="50" height="50" as="geometry" />
+          <mxGeometry x="230" y="1145" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="yI_dVfx9PWGD7jNFMSd0-7" target="yI_dVfx9PWGD7jNFMSd0-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-7" value="拉取 t_bk_parsing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="380" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="382.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-8" value="@Override&#xa;    public Boolean parsingDataGramAndSave() {&#xa;        //从中间表中获取未解析报文&#xa;        List&lt;TmsParsingVo&gt; tBkParsings = tBkParsingMapper.selectParsingData();" style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="320" y="1170" width="360" height="70" as="geometry" />
+          <mxGeometry x="322.5" y="1210" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-9" value="定时器未开发！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="117.5" y="1075" width="160" height="30" as="geometry" />
+          <mxGeometry x="115" y="1140" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yI_dVfx9PWGD7jNFMSd0-11" value="回写结果到订舱单数据上" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="595" y="1100" width="120" height="60" as="geometry" />
+        <mxCell id="yI_dVfx9PWGD7jNFMSd0-11" value="回写结果到订舱单数据上" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="597.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-13" value="罗嘉城、唐健" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="530" y="1030" width="30" height="60" as="geometry" />
+          <mxGeometry x="532.5" y="1070" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI_dVfx9PWGD7jNFMSd0-14" value="黄玉华" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="850" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI_dVfx9PWGD7jNFMSd0-15" value="夏璐&lt;br&gt;负责开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="735" y="1125" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI_dVfx9PWGD7jNFMSd0-16" value="SftpUtil" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="910" y="675" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
