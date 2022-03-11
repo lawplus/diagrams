@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T02:51:55.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Y8E43uHFjczisePNRFJj" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:55:11.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="82j21DnMwMx4ocjUUmBZ" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -248,8 +248,8 @@
         <mxCell id="JFBK3BTQpI2FT_7uciLW-2" value="定时器未开发！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="117.5" y="860" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JFBK3BTQpI2FT_7uciLW-3" value="// 对接订舱报文生成接口&#xa;                Map&lt;String,Object&gt; resMap = tBkPushService.bookingMessage(tmsBookingOrder.getId(), &quot;9&quot;);" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="770" y="210" width="500" height="40" as="geometry" />
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-3" value="key codes：&lt;br&gt;&amp;nbsp; // 对接订舱报文生成接口&lt;br&gt;&amp;nbsp; Map resMap = tBkPushService.bookingMessage(tmsBookingOrder.getId(), &quot;9&quot;);" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="370" y="210" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JFBK3BTQpI2FT_7uciLW-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#7EA6E0;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
