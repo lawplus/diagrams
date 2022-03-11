@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T02:55:11.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="82j21DnMwMx4ocjUUmBZ" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:56:40.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MjcR717ZTXLzn7uhaUcc" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -256,6 +256,9 @@
             <mxPoint x="190" y="390" as="sourcePoint" />
             <mxPoint x="260" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-6" value="文件下载机制未完善。&lt;br&gt;&lt;br&gt;code to search:&lt;br&gt;//TODO 有值保存成功，删除服务器上对应文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="380" y="880" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
