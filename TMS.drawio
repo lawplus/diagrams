@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:58:07.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fj0lOB1JImw824DT7FXx" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T08:48:15.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="igemdE0N5W2_WyOJjyd4" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -334,6 +334,11 @@
         <mxCell id="LvXJ59gZbJUZpNp65Pd6-2" value="AGP" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="119" y="439" width="60" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="https://api-admin-sit.tcl.com/index" link="https://api-admin-sit.tcl.com/index" id="LvXJ59gZbJUZpNp65Pd6-5">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+            <mxGeometry x="89" y="390" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
