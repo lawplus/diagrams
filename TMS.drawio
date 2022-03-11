@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T01:45:18.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="WoSH25hsshN_2WTPO8YD" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:51:40.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oMCUlvVhgVSR6FmbJpmZ" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -143,6 +143,120 @@
       <root>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-0" />
         <mxCell id="7fqA23fZp8QjV5QjAp_y-1" parent="7fqA23fZp8QjV5QjAp_y-0" />
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="570" y="50" width="470" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="170" y="80" width="390" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-2" target="7fqA23fZp8QjV5QjAp_y-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-2" value="张西" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="137.5" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-3" value="夏璐&lt;br&gt;负责开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="275" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-7" target="7fqA23fZp8QjV5QjAp_y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-7" value="创建&lt;br&gt;订舱单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-10" value="tms-ordercenter" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="240" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-12" target="7fqA23fZp8QjV5QjAp_y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-12" value="confirm&lt;br&gt;订舱单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="400" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-15" target="7fqA23fZp8QjV5QjAp_y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-15" value="转换为船公司的EDI报文后&lt;br&gt;写入Cargo报文日志相关表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-17" value="tms-order2.0&lt;br&gt;t_bk_push&lt;br&gt;t_cargo_smart_log" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="585" y="270" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-19" value="SI预走货单&lt;br&gt;TP走货单&lt;br&gt;（SAP/OMS上游系统接口）" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="65" y="460" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-21" value="罗嘉城、唐健、黄玉华等" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="760" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-22" value="备注：&lt;br&gt;本次邮件形式的报文，暂不开发" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="600" y="100" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-23" value="TmsBookingOrderService" style="text;whiteSpace=wrap;html=1;fontColor=#7EA6E0;fontStyle=1" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="480" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-24" value="tms-ordercenter" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="750" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-26" target="7fqA23fZp8QjV5QjAp_y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-26" value="定时器&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="257.5" y="620" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-27" value="TimedTask" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="197.5" y="645" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-28" value="tms-ordercenter" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="197.5" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-29" value="定时每天晚上23点？？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="167.5" y="590" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-30" value="上传订舱报文到cargoSmart FTP服务器&lt;br&gt;in目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="447.5" y="620" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;需要登录到ftp服务器校验文件是否已上传成功，下载来检查报文体&lt;br&gt;&lt;br&gt;重复上传是否存在文件覆盖问题？&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="650" y="625" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-33" target="7fqA23fZp8QjV5QjAp_y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-33" value="定时器&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="265" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-34" target="7fqA23fZp8QjV5QjAp_y-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-34" value="从cargoSmart FTP服务器&lt;br&gt;out目录&lt;br&gt;下载订舱结果报文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="400" y="810" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-35" target="7fqA23fZp8QjV5QjAp_y-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-35" value="写入Cargo报文日志中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="640" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fqA23fZp8QjV5QjAp_y-36" value="tms-order2.0&lt;br&gt;t_bk_parsing&lt;br&gt;t_cargo_smart_log" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="635" y="930" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-0" value="核心类： ParsingDatagramService" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="170" y="900" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-1" value="tms-ordercenter" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="177.5" y="930" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-2" value="定时器未开发！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="117.5" y="860" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-3" value="// 对接订舱报文生成接口&#xa;                Map&lt;String,Object&gt; resMap = tBkPushService.bookingMessage(tmsBookingOrder.getId(), &quot;9&quot;);" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="770" y="210" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JFBK3BTQpI2FT_7uciLW-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#7EA6E0;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="190" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
