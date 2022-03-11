@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T02:51:40.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oMCUlvVhgVSR6FmbJpmZ" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:51:55.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Y8E43uHFjczisePNRFJj" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
           <mxGeometry x="167.5" y="590" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-30" value="上传订舱报文到cargoSmart FTP服务器&lt;br&gt;in目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="447.5" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry x="447.5" y="615" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;需要登录到ftp服务器校验文件是否已上传成功，下载来检查报文体&lt;br&gt;&lt;br&gt;重复上传是否存在文件覆盖问题？&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="650" y="625" width="380" height="50" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-33" value="定时器&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="265" y="820" width="50" height="50" as="geometry" />
+          <mxGeometry x="265" y="815" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7fqA23fZp8QjV5QjAp_y-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="7fqA23fZp8QjV5QjAp_y-34" target="7fqA23fZp8QjV5QjAp_y-35">
           <mxGeometry relative="1" as="geometry" />
