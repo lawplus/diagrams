@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T01:41:47.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="gADe8eWnjQ_U6_v12s1Q" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-13T02:16:13.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="A06aCrXWXGLSjRj_Yure" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-0" />
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-1" parent="GyTXTzT2P_0X31Xhbt4W-0" />
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
@@ -124,6 +124,9 @@
             <mxGeometry x="950" y="420" width="420" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="43Pygb2mN_xgxBr6zQSX-0" value="外销端到端流程介绍：&lt;br&gt;&lt;br&gt;https://meeting.tencent.com/v2/cloud-record/share?id=15ff3e8e-5d31-4d28-bb27-3e491e697141&amp;amp;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+          <mxGeometry x="550" y="870" width="550" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
