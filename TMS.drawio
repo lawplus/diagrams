@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T00:49:14.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="pR4Z3fLYTcADW6U8jTuP" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-14T00:59:05.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="m1uxYhJ2H2vj28a6qh_h" version="17.1.0" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -307,6 +307,9 @@
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-9" value="定时器未开发！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="372" y="1140" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d97xvUXwjqW4jTWEEziv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="yI_dVfx9PWGD7jNFMSd0-11" target="d97xvUXwjqW4jTWEEziv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-11" value="回写结果到订舱单数据上" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="854.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -317,7 +320,7 @@
           <mxGeometry x="1107" y="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-15" value="夏璐&lt;br&gt;负责开发" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
-          <mxGeometry x="992" y="1125" width="30" height="60" as="geometry" />
+          <mxGeometry x="977" y="1180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yI_dVfx9PWGD7jNFMSd0-16" value="SftpUtil" style="text;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="1167" y="675" width="60" height="30" as="geometry" />
@@ -348,6 +351,26 @@
         <mxCell id="d97xvUXwjqW4jTWEEziv-1" value="解析异常的情况下如何主动提示给谁？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
           <mxGeometry x="639.5" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="d97xvUXwjqW4jTWEEziv-3" value="张西" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="1167" y="1210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d97xvUXwjqW4jTWEEziv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="7fqA23fZp8QjV5QjAp_y-1" source="d97xvUXwjqW4jTWEEziv-4" target="d97xvUXwjqW4jTWEEziv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d97xvUXwjqW4jTWEEziv-4" value="推送SO单到外部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="1107" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d97xvUXwjqW4jTWEEziv-6" value="SAP/OMS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="1410" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d97xvUXwjqW4jTWEEziv-7" value="AGP" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+          <mxGeometry x="1290" y="1145" width="60" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="https://api-admin-sit.tcl.com/index" link="https://api-admin-sit.tcl.com/index" id="d97xvUXwjqW4jTWEEziv-8">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="7fqA23fZp8QjV5QjAp_y-1">
+            <mxGeometry x="1240" y="1115" width="200" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
