@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T16:21:59.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SYymXAw6ViSANLRSO_HV" version="17.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-16T16:40:13.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="kZ87K0l2BngQjMGo7qwL" version="17.1.2" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OmHlRPRJlzmbfcQNVS22" name="服务层">
-    <mxGraphModel dx="918" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="urAXquQY38VEAXS-wWBw-0" />
         <mxCell id="urAXquQY38VEAXS-wWBw-1" parent="urAXquQY38VEAXS-wWBw-0" />
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="918" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
@@ -70,7 +70,7 @@
           <mxGeometry x="720" y="400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yEjoTSIeXK4SM9NQxAe1-1" value="外销 -- 主业务功能流程：&lt;br&gt;1、 SI单（预走货单 - pre-shipping instruction） –&amp;nbsp; SAP/OMS接口推送过来 ， 用于订舱&lt;br&gt;2、 TMS订舱管理，把订舱信息推送回SAP/OMS&lt;br&gt;3、 TP单 （发货单管理）- SAP/OMS接口推送，有多次上游审核并需要TMS接收最新的信息并更新到系统， 审核通过后自动创建装柜方案&lt;br&gt;4、 运输订单 – 根据TP单审核通过后自动匹配路由规则创建&lt;br&gt;5、 装柜方案 – 上游TP单带过来、MES（半成品）推送过来、装柜算法（五月份后开发），用户直接按柜型、柜数创建&lt;br&gt;6、 调度单 -- &amp;nbsp; 通过选择运输订单/装柜方案创建，并生成运输任务(园区入园预约)&lt;br&gt;7、 运输任务 – 通过调度单生成， 有可能生成子任务。子任务类型：正常子任务、返空子任务、返工子任务&lt;br&gt;8、 运输任务产生预约单 --&lt;br&gt;（需派送运输单给SPD等三方物流系统接口！！）&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#ff350d&quot;&gt;本段描述缺少角色人物，没有画面感，开发难理解！！&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#3333FF;dashed=1;perimeterSpacing=1;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
-          <mxGeometry x="145" y="680" width="910" height="210" as="geometry" />
+          <mxGeometry x="145" y="680" width="985" height="210" as="geometry" />
         </mxCell>
         <mxCell id="72Kg7NZgrzikHqp7cHUT-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;fontColor=#FF350D;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="170" y="995" width="30" height="60" as="geometry" />
@@ -124,7 +124,7 @@
             <mxGeometry x="950" y="420" width="420" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="43Pygb2mN_xgxBr6zQSX-0" value="外销端到端流程介绍：&lt;br&gt;&lt;br&gt;https://meeting.tencent.com/v2/cloud-record/share?id=15ff3e8e-5d31-4d28-bb27-3e491e697141&amp;amp;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tQJhOPiJMeDeqM3luCm8-1">
+        <mxCell id="43Pygb2mN_xgxBr6zQSX-0" value="外销端到端流程介绍：&lt;br&gt;&lt;br&gt;https://meeting.tencent.com/v2/cloud-record/share?id=15ff3e8e-5d31-4d28-bb27-3e491e697141&amp;amp;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="tQJhOPiJMeDeqM3luCm8-1" vertex="1">
           <mxGeometry x="550" y="870" width="550" height="60" as="geometry" />
         </mxCell>
       </root>
