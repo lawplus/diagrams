@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T04:14:53.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GRG5aSxanWb-Cr0CShEc" version="17.1.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-17T17:02:34.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="YMF7KpdOXs-AfoCMP3QN" version="17.1.3" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -23,6 +23,15 @@
         </mxCell>
         <mxCell id="_19iEEt82in34MYtU9IB-0" value="小程序UI已有，开发需要后端来设计接口文档。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="100" y="410" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EfHusyPydBxEUMMLsRiw-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+          <mxGeometry x="220" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EfHusyPydBxEUMMLsRiw-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+          <mxGeometry x="150" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EfHusyPydBxEUMMLsRiw-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+          <mxGeometry x="290" y="510" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -50,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="638" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
