@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T07:52:58.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="KsdnDVQhWbJVpgKLeK-1" version="17.1.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-21T03:53:44.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="kyj_QmICHeeeaeQPs1qq" version="17.1.3" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-0" />
         <mxCell id="GyTXTzT2P_0X31Xhbt4W-1" parent="GyTXTzT2P_0X31Xhbt4W-0" />
-        <mxCell id="PYjA-rL1wjW4okXEv22l-2" value="明悦家" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-2" value="明悦家" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=left;verticalAlign=top;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="450" y="690" width="330" height="180" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;b&gt;司机/门卫/监装员端-小程序 - 原型（外部承运商-司机）&lt;/b&gt;：&amp;nbsp;&lt;br&gt;PRD doc：https://www.kdocs.cn/p/155683660393?fl=syvTtlCb8&amp;amp;from=docs &lt;br&gt;线上原型：https://codesign.qq.com/preview/prototype/X2bzpZvkwkjkAaV/QGPEpZGx56jw3z7&lt;br&gt;Axure：&amp;nbsp;https://app.axure.cloud/app/project/qkibdt/overview&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;TCL企业-小程序（内部园区门卫等使用）&lt;/b&gt;：&lt;br&gt;https://www.kdocs.cn/p/153528122167?fl=syvTtlCb8&amp;amp;from=docs&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Web平台管理：&lt;/b&gt;&lt;br&gt;&lt;div&gt;分享文件：tms原型html.zip&lt;/div&gt;&lt;div&gt;云盘链接：https://pan.tcl.com/s/eyHYPnpRVM&amp;nbsp; 密码：3lme&amp;nbsp; 过期时间：2022-03-09 16:21:10&lt;/div&gt;&lt;div&gt;最新线上原型：&amp;nbsp;https://app.axure.cloud/app/project/xrz15w/preview/n7mym0&lt;/div&gt;" link="https://codesign.qq.com/preview/prototype/X2bzpZvkwkjkAaV/r2nL6jg4LD9pJXV" id="GyTXTzT2P_0X31Xhbt4W-2">
+        <UserObject label="&lt;b&gt;司机/门卫/监装员端-小程序 - 原型（外部承运商-司机）&lt;/b&gt;：&amp;nbsp;&lt;br&gt;PRD doc：https://www.kdocs.cn/p/155683660393?fl=syvTtlCb8&amp;amp;from=docs &lt;br&gt;线上原型：https://codesign.qq.com/preview/prototype/X2bzpZvkwkjkAaV/GxDP39q5D49wlKp&lt;br&gt;Axure：&amp;nbsp;https://app.axure.cloud/app/project/qkibdt/overview&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;TCL企业-小程序（内部园区门卫等使用）&lt;/b&gt;：&lt;br&gt;https://www.kdocs.cn/p/153528122167?fl=syvTtlCb8&amp;amp;from=docs&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Web平台管理：&lt;/b&gt;&lt;br&gt;&lt;div&gt;分享文件：tms原型html.zip&lt;/div&gt;&lt;div&gt;云盘链接：https://pan.tcl.com/s/eyHYPnpRVM&amp;nbsp; 密码：3lme&amp;nbsp; 过期时间：2022-03-09 16:21:10&lt;/div&gt;&lt;div&gt;最新线上原型：&amp;nbsp;https://app.axure.cloud/app/project/xrz15w/preview/n7mym0&lt;/div&gt;" link="https://codesign.qq.com/preview/prototype/X2bzpZvkwkjkAaV/r2nL6jg4LD9pJXV" id="GyTXTzT2P_0X31Xhbt4W-2">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
             <mxGeometry x="180" y="80" width="590" height="200" as="geometry" />
           </mxCell>
@@ -36,50 +36,50 @@
         <mxCell id="EfHusyPydBxEUMMLsRiw-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="290" y="510" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-0" value="TMS&lt;br&gt;微信小程序" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-0" value="TMS&lt;br&gt;微信小程序" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="110" y="710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-1" value="明悦" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-1" value="明悦" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="510" y="780" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-3" value="nginx&lt;br&gt;监听80端口" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-3" value="nginx&lt;br&gt;监听80端口" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="630" y="730" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.079;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GyTXTzT2P_0X31Xhbt4W-1" source="PYjA-rL1wjW4okXEv22l-3" target="PYjA-rL1wjW4okXEv22l-6">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.079;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" source="PYjA-rL1wjW4okXEv22l-3" target="PYjA-rL1wjW4okXEv22l-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="610" as="sourcePoint" />
             <mxPoint x="860" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-7" value="nginx反向代理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PYjA-rL1wjW4okXEv22l-5">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-7" value="nginx反向代理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PYjA-rL1wjW4okXEv22l-5" vertex="1" connectable="0">
           <mxGeometry x="0.5544" relative="1" as="geometry">
             <mxPoint x="-71" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-6" value="格创私有云 - TMS开发环境 or 测试环境&lt;br&gt;举例：&lt;a href=&quot;https://tms-sit-front-admin.eads.tcl.com/&quot;&gt;http://tms-sit-front-admin.eads.tcl.com/&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-6" value="格创私有云 - TMS开发环境 or 测试环境&lt;br&gt;举例：&lt;a href=&quot;https://tms-sit-front-admin.eads.tcl.com/&quot;&gt;http://tms-sit-front-admin.eads.tcl.com/&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="860" y="685" width="380" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GyTXTzT2P_0X31Xhbt4W-1" source="PYjA-rL1wjW4okXEv22l-9" target="PYjA-rL1wjW4okXEv22l-3">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" source="PYjA-rL1wjW4okXEv22l-9" target="PYjA-rL1wjW4okXEv22l-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-9" value="NATAPP&lt;br&gt;内网穿透工具" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-9" value="NATAPP&lt;br&gt;内网穿透工具" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="420" y="730" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-10" value="菲比&lt;br&gt;兵权" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-10" value="菲比&lt;br&gt;兵权" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="30" y="720" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="GyTXTzT2P_0X31Xhbt4W-1" source="PYjA-rL1wjW4okXEv22l-0" target="PYjA-rL1wjW4okXEv22l-9">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" source="PYjA-rL1wjW4okXEv22l-0" target="PYjA-rL1wjW4okXEv22l-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="600" as="sourcePoint" />
             <mxPoint x="750" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-12" value="例如：&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;http://paulmin.natapp1.cc/&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PYjA-rL1wjW4okXEv22l-11">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-12" value="例如：&lt;br&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;http://paulmin.natapp1.cc/&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PYjA-rL1wjW4okXEv22l-11" vertex="1" connectable="0">
           <mxGeometry x="0.1771" relative="1" as="geometry">
             <mxPoint x="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PYjA-rL1wjW4okXEv22l-15" value="NATAPP配置80端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GyTXTzT2P_0X31Xhbt4W-1">
+        <mxCell id="PYjA-rL1wjW4okXEv22l-15" value="NATAPP配置80端口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="GyTXTzT2P_0X31Xhbt4W-1" vertex="1">
           <mxGeometry x="560" y="710" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
