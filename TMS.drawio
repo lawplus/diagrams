@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T12:54:35.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="OMqL-pYpdJeK7LwTC5rd" version="17.2.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-31T00:42:56.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="sgYCGxTZgWcKiSCsfJaQ" version="17.2.4" type="github" pages="11">
   <diagram id="4iG0YWdbvJC6x-dJVc1n" name="触点端">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B9jzU0XdRBxkHYX1oe6B" name="系统集成图">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="tQJhOPiJMeDeqM3luCm8-0" />
         <mxCell id="tQJhOPiJMeDeqM3luCm8-1" parent="tQJhOPiJMeDeqM3luCm8-0" />
